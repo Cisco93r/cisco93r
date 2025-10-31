@@ -1,4 +1,13 @@
-## Hi there 👋
+## Ciao, sono Francesco Scordamaglia 👋
+Tecnico informatico e grafico. Nato a Tropea nel 1993 e residente a Zaccanopoli, mi occupo di assistenza e riparazione PC, assemblaggio personalizzato e ottimizzazione hardware e software.
+La mia esperienza nel graphic design spazia dalla creazione di locandine e materiale pubblicitario alla realizzazione di siti web personalizzati su WordPress. Ogni progetto è pensato per offrire soluzioni pratiche e facili da gestire in autonomia.
+
+Appassionato di cani, calcio, ho recentemente intrapreso collaborazioni giornalistiche e supporto realtà solidali vibonesi, perché anche gli informatici hanno un cuore tenero ❤️.
+
+☕ Supportami
+Se vuoi supportare il mio lavoro, puoi farlo tramite PayPal:
+
+https://paypal.me/Cisco1993r
 
 <!--
 **Cisco93r/cisco93r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
