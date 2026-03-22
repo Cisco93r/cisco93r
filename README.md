@@ -1,7 +1,9 @@
 👋 I'm Francesco Scordamaglia
 
 💻 IT Technician from Tropea, Italy 🇮🇹 (born in Tropea, 1993).
+
 🚀 About Me
+
 PC repair & technical support specialist with hands-on experience in custom builds and hardware/software optimization. 
 build custom WordPress websites focused on usability and easy client management. 
 Always chasing faster, smarter, cleaner solutions.
@@ -15,6 +17,7 @@ Always chasing faster, smarter, cleaner solutions.
     🐧 Linux Lover
 
 ☕ Support My Work
+
 If you’d like to support my projects, you can do so via PayPal 💙
 
 https://paypal.me/Cisco1993r
