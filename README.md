@@ -1,18 +1,21 @@
-## Ciao, sono Francesco Scordamaglia 👋
-Tecnico informatico. Nato a Tropea nel 1993 e residente a Zaccanopoli, mi occupo di assistenza e riparazione PC, assemblaggio personalizzato e ottimizzazione hardware e software.
-La mia esperienza nella realizzazione di siti web personalizzati su WordPress. Ogni progetto è pensato per offrire soluzioni pratiche e facili da gestire in autonomia.
+👋 I'm Francesco Scordamaglia
 
-Appassionato di cani, calcio, ho recentemente intrapreso collaborazioni giornalistiche e supporto realtà solidali vibonesi, perché anche gli informatici hanno un cuore tenero ❤️.
+💻 IT Technician from Tropea, Italy 🇮🇹 (born in Tropea, 1993).
+🚀 About Me
+PC repair & technical support specialist with hands-on experience in custom builds and hardware/software optimization. 
+build custom WordPress websites focused on usability and easy client management. 
+Always chasing faster, smarter, cleaner solutions.
 
 🧠 Skills
-🖥️ PC Repair & Optimization (Hardware / Software)
-⚙️ Custom PC Assembly & Component Selection
-🌐 WordPress Website Design & Management
-🪟 Windows User
-🐧 Linux Lover
 
-☕ Supportami
-Se vuoi supportare il mio lavoro, puoi farlo tramite PayPal:
+    🖥️ PC Repair & Optimization (Hardware / Software)
+    ⚙️ Custom PC Assembly & Component Selection
+    🌐 WordPress Website Design & Management
+    🪟 Windows User
+    🐧 Linux Lover
+
+☕ Support My Work
+If you’d like to support my projects, you can do so via PayPal 💙
 
 https://paypal.me/Cisco1993r
 
